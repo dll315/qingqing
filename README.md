@@ -2,7 +2,9 @@
 
 一片只属于她一个人的星空。没有节日、没有日子，打开就能看。
 
-线上地址：**https://dll315.github.io/qingqing/**
+线上地址：**https://dailong.me/qingqing/**
+
+（`https://dll315.github.io/qingqing/` 也在，会 301 跳到上面这个 —— 账号绑了自定义域名，发给她建议用 `dailong.me` 那个，短也好记。）
 
 ## 页面里有什么
 
